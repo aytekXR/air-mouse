@@ -1,0 +1,9 @@
+name: air_mouse
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - opencv
+  - mediapipe
+  - pyautogui
