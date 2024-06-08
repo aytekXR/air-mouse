@@ -13,7 +13,7 @@ To set up the environment for this project, follow these steps:
 
    ```bash
    git clone https://github.com/aytekXR/air-mouse.git
-   cd <air-mouse>
+   cd air-mouse
    ```
 
 3. Create a new conda environment using the provided `environment.yml` file:
